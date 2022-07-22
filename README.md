@@ -1,3 +1,3 @@
 # TemplateQtOpenGLProject
 
-Sample OpenGL Project using Qt.
+Simple OpenGL Project using Qt.
